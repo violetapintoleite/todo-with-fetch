@@ -1,0 +1,8 @@
+
+#delete-button{
+    display: none;
+}
+
+#task:hover #delete-button{
+    display: inline;
+}
